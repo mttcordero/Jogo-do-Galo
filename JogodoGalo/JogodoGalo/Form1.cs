@@ -153,6 +153,10 @@ namespace JogodoGalo
             richTextBox1.Clear();
         }
 
-       
+        private void listBox1_SelectedIndexChanged(object sender, EventArgs e)
+        {
+
+        }
     }
-}
+ }
+
